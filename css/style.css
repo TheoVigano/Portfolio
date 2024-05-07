@@ -1,0 +1,30 @@
+@import url('header.css');
+@import url('home.css');
+@import url('about.css');
+@import url('albuns.css');
+@import url('footer.css');
+
+:root {
+    --color-primary-1: #fbe33c;
+    --color-primary-2: #fcf4a4;
+    --color-primary-3: #60157e;
+    --color-primary-4: #85519f;
+    --color-primary-5: #c7be8b;
+    --color-primary-6: #ffa2c4;
+    --color-neutral-0:
+    --color-neutral-1: 
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#background{
+    background-color: rgb(248, 246, 227);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}

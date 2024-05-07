@@ -1,0 +1,50 @@
+#albuns {
+    width: 99%;
+    height: auto;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    background-color: #fcf5a441;
+    margin: 10px;
+    border-radius: 25px;
+    text-align: start;
+    box-shadow: 0px 2px 2px 2px black;
+}
+
+#albuns img {
+    width: 345px;
+    height: 350px;
+    border-radius: 15px;
+    box-shadow: 0px 2px 2px 2px black;
+}
+
+#albuns h1 {
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30pt;
+    margin-top: 50px;
+}
+
+#albuns p {
+    margin-top: 5%;
+    padding: 20px;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    margin-right: 10%;
+}
+
+#albuns ul{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    font-size: 13pt;
+    margin-right: 7%;
+}
+#titulodisco{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40pt;
+}
